@@ -1,0 +1,57 @@
+Method,Features
+Random Forest,dept
+Random Forest,size
+Random Forest,store
+Random Forest,month
+Random Forest,cpi
+Random Forest,temperature
+Random Forest,type_b
+Random Forest,unemployment
+Random Forest,markdown3
+Random Forest,fuel_price
+Random Forest,isholiday
+Random Forest,markdown4
+Random Forest,markdown5
+Random Forest,type_c
+Random Forest,markdown2
+RFE,store
+RFE,dept
+RFE,cpi
+RFE,size
+RFE,month
+RFE,store
+RFE,dept
+RFE,temperature
+RFE,fuel_price
+RFE,markdown3
+RFE,cpi
+RFE,unemployment
+RFE,size
+RFE,month
+RFE,type_b
+RFE,store
+RFE,dept
+RFE,temperature
+RFE,fuel_price
+RFE,markdown1
+RFE,markdown3
+RFE,markdown4
+RFE,markdown5
+RFE,cpi
+RFE,unemployment
+RFE,size
+RFE,month
+RFE,isholiday
+RFE,type_b
+RFE,type_c
+Boruta,store
+Boruta,dept
+Boruta,temperature
+Boruta,fuel_price
+Boruta,markdown3
+Boruta,cpi
+Boruta,unemployment
+Boruta,size
+Boruta,month
+Boruta,isholiday
+Boruta,type_b
